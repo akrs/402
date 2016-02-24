@@ -1,0 +1,11 @@
+[submodule "libs/RF24Mesh"]
+	path = libs/RF24Mesh
+	url = https://github.com/TMRh20/RF24Mesh.git
+
+[submodule "libs/RF24Network"]
+	path = libs/RF24Network
+	url = https://github.com/tmrh20/RF24Network.git
+
+[submodule "libs/RF24"]
+	path = libs/RF24
+	url = https://github.com/tmrh20/RF24.git
