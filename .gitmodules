@@ -9,3 +9,6 @@
 [submodule "libs/RF24"]
 	path = libs/RF24
 	url = https://github.com/tmrh20/RF24.git
+[submodule "libs/AMQP-CPP"]
+	path = libs/AMQP-CPP
+	url = https://github.com/CopernicaMarketingSoftware/AMQP-CPP.git
